@@ -1,0 +1,6 @@
+<!-- Proved the body element is inherent regardless of code-->
+<style>
+body {
+  background-color: black;
+}
+</style>
