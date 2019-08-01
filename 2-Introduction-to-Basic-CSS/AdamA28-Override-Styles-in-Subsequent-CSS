@@ -1,0 +1,15 @@
+<!-- I learned how a second class in an element can override the first one which can also override another style.-->
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+  .blue-text{
+    color: blue;
+  }
+</style>
+<h1 class="pink-text blue-text">Hello World!</h1>

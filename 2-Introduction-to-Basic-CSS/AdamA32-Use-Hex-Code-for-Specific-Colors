@@ -1,0 +1,6 @@
+<!-- Learned how the hexadecimal RGB color system operates and gave the background a black color using the system.-->
+<style>
+  body {
+    background-color: #000000;
+  }
+</style>

@@ -1,0 +1,23 @@
+<!-- I learned more in depth how the RGB hex sytem can create different colors, utilizing 0-F (16 digits of 0-9 and A-F) for brightness of each color: red (first two), green (second two), blue (last two).-->
+<style>
+  .red-text {
+    color: #FF0000;
+  }
+  .green-text {
+    color: #00FF00;
+  }
+  .dodger-blue-text {
+    color: #1E90FF;
+  }
+  .orange-text {
+    color: #FFA500;
+  }
+</style>
+
+<h1 class="red-text">I am red!</h1>
+
+<h1 class="green-text">I am green!</h1>
+
+<h1 class="dodger-blue-text">I am dodger blue!</h1>
+
+<h1 class="orange-text">I am orange!</h1>
