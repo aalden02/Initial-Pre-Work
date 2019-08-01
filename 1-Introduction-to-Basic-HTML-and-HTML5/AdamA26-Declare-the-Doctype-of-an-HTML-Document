@@ -1,0 +1,5 @@
+<!--Here I learned the importance of specififying the type of document this page will be written in this goes at the very beginning and very end.-->
+<!DOCTYPE html>
+<html>
+  <h1>Header</h1>
+  </html>
