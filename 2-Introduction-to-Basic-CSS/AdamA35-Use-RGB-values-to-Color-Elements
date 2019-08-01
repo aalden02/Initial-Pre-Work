@@ -1,0 +1,6 @@
+<!-- I learned another way to color items using a style declaration rgb (x,x,x) using numbers 0-255 for each.-->
+<style>
+  body {
+    background-color: rgb(0, 0,0);
+  }
+</style>
