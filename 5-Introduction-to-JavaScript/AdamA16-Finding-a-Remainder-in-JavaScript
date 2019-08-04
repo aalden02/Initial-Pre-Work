@@ -1,0 +1,4 @@
+//Variables can even be initialized to equal the remainder of a division equation like below where "var quotient = 11 % 3" means the variable declared as "quotient" is intialized to equal the remainder of 11 divided by 3.
+// Only change code below this line
+
+var remainder = 11 % 3;

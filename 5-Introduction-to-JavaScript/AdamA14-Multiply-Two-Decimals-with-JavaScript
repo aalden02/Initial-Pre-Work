@@ -1,0 +1,2 @@
+//while there are limits to how decimals (floats, floating points) can be used in arithmetic, simple problems can be solved for deicmals.
+var product = 2.0 * 2.5;

@@ -1,0 +1,5 @@
+//I created a decimal number in this lesson, but it should be noted there are some serious limwitations with what can be done with decimals and subsequent calculations they are used in.
+var ourDecimal = 5.7;
+
+// Only change code below this line
+var myDecimal = 6.5;
