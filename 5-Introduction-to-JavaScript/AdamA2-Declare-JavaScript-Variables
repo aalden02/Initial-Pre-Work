@@ -1,0 +1,6 @@
+//Here I learned variables in javascript are much like math variables, they can label data. There are seven types of data (data = meaningfulpieces of information ) in javascript: undefined, null, boolean, string, symbol, number, object. Variables can contain any of these data points and again are declared (named or labeled) by using the command var followed by numbers, letters, $, or _, but cannot contain spaces or start with a number. All statements in JS end in ;
+// Example
+var ourName;
+
+// Declare myName below this line
+var myName;

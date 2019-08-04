@@ -1,0 +1,9 @@
+//I learned how to assign values to different variable and get them to = each other. An important note is, much like CSS/HTML logic, commands/inputs/declarations at the bottom of the code override similar pieces of code that come before.
+// Setup
+var a;
+var b = 2;
+
+// Only change code below this line
+var b = 7;
+var a = 7;
+ b=a;

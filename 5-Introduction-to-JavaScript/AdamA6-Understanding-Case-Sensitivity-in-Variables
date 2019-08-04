@@ -1,0 +1,10 @@
+// I learned how variable declarations and subsequent assignments are all case sensitive and a best practice solution known as camelCase where variables consist of at least two words, the first word is undercase and all following words start with a capitalized letter.
+// Declarations
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
+
+// Assignments
+studlyCapVar = 10;
+properCamelCase = "A String";
+titleCaseOver = 9000;

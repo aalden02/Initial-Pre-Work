@@ -1,0 +1,2 @@
+//Learning to do different arithmetic operations with numbers/ equations as variable.
+var difference = 45 - 33;

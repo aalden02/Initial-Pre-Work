@@ -1,0 +1,5 @@
+// The ++ operator adds one to an initialized number variable incrementally adding to the initial variable, the final value in the case below would be 88
+var myVar = 87;
+
+// Only change code below this line
+myVar++;

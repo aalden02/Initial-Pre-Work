@@ -1,0 +1,6 @@
+// Here I learned that it is common practice to both define a variable (ex. var a) and initializ that variable (a=9) in the same line of code.
+// Example
+var ourVar = 19;
+
+// Only change code below this line
+var a= 9;

@@ -1,0 +1,2 @@
+//Variables that consist of just numbers, or equations, are read as the data type "number" and can be used in arithmetic.
+var sum = 10 + 10;

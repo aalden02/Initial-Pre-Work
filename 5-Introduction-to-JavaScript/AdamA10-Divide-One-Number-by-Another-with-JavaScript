@@ -1,0 +1,2 @@
+// Hindsight is 20/20 the variable declaration in this scenario, and in recent previous scenarios is the generic solution name of each operation (sum, difference, product, quotient) but could be declared or named anything, the operations would be the same no matter what they are declared though.
+var quotient = 66 / 33;

@@ -1,0 +1,2 @@
+// It seems the common structure for simple arithmetic operations is var, followed by the generic type of solution associated with a particular operation, followed by an = sign, followed by the arithmetic operation, followed by a semi colon ie.
+var product = 8 * 10;
