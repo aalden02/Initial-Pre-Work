@@ -1,0 +1,8 @@
+//I declared my first string variables, which are defined as one or more characters within quotations.
+// Example
+var firstName = "Alan";
+var lastName = "Turing";
+
+// Only change code below this line
+var myFirstName= "Adam";
+var myLastName= "Alden";

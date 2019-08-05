@@ -1,0 +1,2 @@
+// I learned one does not necessarily need to use the escape backlash to prevent quotes within a string to cause an error by using one type of quotes (single or double) to denote the string and one set of quotes to denote quotations used withing the string. It is important to use the same type of quotes for the string container (single or double), and it is ideal to have the opposite type of quotation used withing the string.
+var myStr = '<a href="http://www.example.com" target="_blank">Link</a>';

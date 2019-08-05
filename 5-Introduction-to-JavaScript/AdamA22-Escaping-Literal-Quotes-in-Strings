@@ -1,0 +1,2 @@
+// I learned that in order to put quotations within a string, one can utilize a backslash in this manner: \"...\" to indicate, within a string, when quotations are meant to be contained by the string and do not signify the end of the string.
+var myStr = "I am a \"double quoted\" string inside \"double quotes\"."; 

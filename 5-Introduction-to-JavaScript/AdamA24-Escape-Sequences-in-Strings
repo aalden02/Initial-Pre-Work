@@ -1,0 +1,2 @@
+// Escape sequences can be used within strings to create a variety of effects.
+var myStr="FirstLine\n\t\\SecondLine\nThirdLine";
