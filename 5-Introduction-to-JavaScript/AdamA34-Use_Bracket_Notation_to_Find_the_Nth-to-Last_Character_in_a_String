@@ -1,0 +1,10 @@
+//One can use brackets plus string name - any value to find any character in relation to the last character in a string.
+// Example
+var firstName = "Ada";
+var thirdToLastLetterOfFirstName = firstName[firstName.length - 3];
+
+// Setup
+var lastName = "Lovelace";
+
+// Only change code below this line
+var secondToLastLetterOfLastName = lastName[lastName.length-2];

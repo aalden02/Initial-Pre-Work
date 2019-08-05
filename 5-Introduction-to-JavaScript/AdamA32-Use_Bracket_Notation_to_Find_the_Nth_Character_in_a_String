@@ -1,0 +1,10 @@
+//This lesson reinforces that 0 equals the first character of a string instead of 1, so all subsequent values in a string follow suit (ie. 3rd character shows up as [2])
+// Example
+var firstName = "Ada";
+var secondLetterOfFirstName = firstName[1];
+
+// Setup
+var lastName = "Lovelace";
+
+// Only change code below this line.
+var thirdLetterOfLastName = lastName[2];

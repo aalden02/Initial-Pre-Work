@@ -1,0 +1,6 @@
+//This is my first introduction to arrays, a special variable that can contain multiple types of data points or items all at once.
+// Example
+var ourArray = ["John", 23];
+
+// Only change code below this line.
+var myArray = ["Adam", 32];

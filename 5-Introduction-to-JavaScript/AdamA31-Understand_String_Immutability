@@ -1,0 +1,7 @@
+// Strings are immutable meaning they can't be manipulated by attempting to change a single value. In order to change a string, one must equate it with a new variable or string.
+// Setup
+var myStr = "Jello World";
+
+// Only change code below this line
+
+myStr= "Hello World"; // Fix Me
