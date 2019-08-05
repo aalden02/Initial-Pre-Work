@@ -1,0 +1,6 @@
+//I learned how indexing works for multidimensional arrays, from the outer most arrays in the first bracket to inner data points within the arrays in subsequent brackets.
+// Setup
+var myArray = [[1,2,3], [4,5,6], [7,8,9], [[10,11,12], 13, 14]];
+
+// Only change code below this line.
+var myData = myArray[2][1];
