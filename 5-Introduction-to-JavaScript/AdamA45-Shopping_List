@@ -1,0 +1,2 @@
+//I created a multidimensional array containing a shopping list.
+var myList = [["Eggs", 12], ["Loaves of bread", 2], ["Bananas", 5], ["Apples", 5], ["Broccoli crowns", 3], ["Kale stalks", 3]];
