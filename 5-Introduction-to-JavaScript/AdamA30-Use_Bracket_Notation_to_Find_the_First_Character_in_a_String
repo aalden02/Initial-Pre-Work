@@ -1,0 +1,13 @@
+//I learned how to find a value in a string, using brackets[] at the end of a statement with a number value in between the brackets to ask which value in the string to choose. 0 is the first value in the sequence instead of 1.
+// Example
+var firstLetterOfFirstName = "";
+var firstName = "Ada";
+
+firstLetterOfFirstName = firstName[0];
+
+// Setup
+var firstLetterOfLastName = "";
+var lastName = "Lovelace";
+
+// Only change code below this line
+firstLetterOfLastName = lastName[0];

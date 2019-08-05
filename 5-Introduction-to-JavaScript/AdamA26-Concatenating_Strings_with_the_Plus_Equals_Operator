@@ -1,0 +1,9 @@
+// One can concantenate strings through the += operator that similarly combines a previously declared string with a new one.
+// Example
+var ourStr = "I come first. ";
+ourStr += "I come second.";
+
+// Only change code below this line
+
+var myStr = "This is the first sentence. ";
+myStr += "This is the second sentence.";

@@ -1,0 +1,7 @@
+// One can add strings together through a plus sign in a process known as concantenation (It is important to note, one must add their own spaces within the strings otherwise words will be combined that shouldn't be).
+// Example
+var ourStr = "I come first. " + "I come second.";
+
+// Only change code below this line
+
+var myStr= "This is the start." + " This is the end.";
