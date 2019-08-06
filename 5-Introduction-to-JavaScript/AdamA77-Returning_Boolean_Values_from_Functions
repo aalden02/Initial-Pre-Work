@@ -1,0 +1,8 @@
+//I learned how to set up an equation that will result in a boolean "true or false" answer.
+function isLess(a, b) {
+  // Fix this code
+  return a<b;
+}
+
+// Change these values to test
+isLess(10, 15);
