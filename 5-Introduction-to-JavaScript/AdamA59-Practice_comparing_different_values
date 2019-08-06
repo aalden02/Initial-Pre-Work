@@ -1,0 +1,11 @@
+//This lesson further reinforced the difference between equality and strict equality and also talked about a different operator (typeof) that can ID what type of data a variable contains (number, string etc.)
+// Setup
+function compareEquality(a, b) {
+  if (a === b) { // Change this line
+    return "Equal";
+  }
+  return "Not Equal";
+}
+
+// Change this value to test
+compareEquality(10, "10");
