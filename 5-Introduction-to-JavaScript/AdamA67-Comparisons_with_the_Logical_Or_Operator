@@ -1,0 +1,16 @@
+//Here I learned about the logical operator "or" (||) which combines to statements where if one or the other is true, than the overall combination of statements is "true"
+function testLogicalOr(val) {
+  // Only change code below this line
+
+  if (val<10||val>20) {
+    return "Outside";
+  }
+
+
+
+  // Only change code above this line
+  return "Inside";
+}
+
+// Change this value to test
+testLogicalOr(15);

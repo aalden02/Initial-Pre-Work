@@ -1,0 +1,15 @@
+//I learned how "else if" statements can chain if statements together, I am happy I was able to put the curly braces in the right place on the first try!
+function testElseIf(val) {
+  if (val > 10) {
+    return "Greater than 10";
+  }
+
+  else if (val < 5) {
+    return "Smaller than 5";
+  }
+  else{
+  return "Between 5 and 10";
+}
+}
+// Change this value to test
+testElseIf(7);
