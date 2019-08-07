@@ -1,0 +1,20 @@
+//I learned how to create and describe objects, like a dog, using Javascript.
+// Example
+var ourDog = {
+  "name": "Camper",
+  "legs": 4,
+  "tails": 1,
+  "friends": ["everything!"]
+};
+
+// Only change code below this line.
+
+var myDog = {
+"name": "Fido",
+"legs": 4,
+"tails": 1,
+"friends": ["Humans", "Dogs"]
+
+
+
+};
