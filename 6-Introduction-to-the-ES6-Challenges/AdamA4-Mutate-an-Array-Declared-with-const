@@ -1,0 +1,14 @@
+//Here I learned the contents of a 'const' are still changeable, the only thing that stays the same, in read only format, is the declared name, not the contents of it.
+const s = [5, 7, 2];
+function editInPlace() {
+  "use strict";
+  // change code below this line
+s[0]=2;
+s[1]= 5;
+s[2]=7;
+
+  // s = [2, 5, 7]; <- this is inval
+
+  // change code above this line
+}
+editInPlace();

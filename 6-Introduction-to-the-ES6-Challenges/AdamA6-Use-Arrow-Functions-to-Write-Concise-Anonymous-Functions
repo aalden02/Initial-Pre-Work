@@ -1,0 +1,5 @@
+//Here I learned the arrow function for empty body functions to write more concise code.
+const magic =()=> {
+  "use strict";
+  return new Date();
+};

@@ -1,0 +1,11 @@
+//Here I learned how to change a var to a let keyword to enable strict declarations, prevent overwriting variable declaration to help with overall debugging.
+let catName;
+let quote;
+function catTalk() {
+  "use strict";
+
+  catName = "Oliver";
+  quote = catName + " says Meow!";
+
+}
+catTalk();
