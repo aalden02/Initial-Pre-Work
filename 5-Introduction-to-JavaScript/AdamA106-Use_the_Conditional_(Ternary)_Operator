@@ -1,0 +1,6 @@
+//I tried multiple iterations of this code for the conditional operator and even the answers, as well as the way it was described did not pass the functionality test. Written below is my code.
+function checkEqual(a, b) {
+return (a === b ? "true" : "false");
+}
+
+checkEqual(1, 2);

@@ -1,0 +1,6 @@
+//Here I learned how to use a radix with a parseInt function.
+function convertToInteger(str) {
+return parseInt (str, 2);
+}
+
+convertToInteger("10011");

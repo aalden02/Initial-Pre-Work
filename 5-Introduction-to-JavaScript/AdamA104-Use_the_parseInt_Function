@@ -1,0 +1,6 @@
+//Here I learned how to use a parse function to to turn a string into a number if possible.
+function convertToInteger(str) {
+return parseInt(str);
+}
+convertToInteger("56");
+ 
