@@ -1,0 +1,3 @@
+//I learned how to import everything froma file using an asterisk
+"use strict";
+import * as str from "capitalize_strings";

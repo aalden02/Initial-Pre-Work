@@ -1,0 +1,4 @@
+//I learned how to reuse a code bloack through an export.
+"use strict";
+export const foo = "bar";
+export const bar = "foo";
